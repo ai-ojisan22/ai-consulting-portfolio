@@ -23,7 +23,6 @@
 - 柔らかく・わかりやすく伝える講座設計が得意
 
 ## 🔹 参考リンク
-- LINEセッション導線例：https://lin.ee/xxxxxx
-- サービス紹介note：https://note.com/xxxx
-- YouTubeチャンネル：https://www.youtube.com/@xxxx
-
+- LINEセッション導線例：https://lbuzspli.autosns.app/line
+- サービス紹介note：https://note.com/nobisan_22/n/nfe5d80a46f7e
+- AI系YouTubeチャンネル（育成中）：https://www.youtube.com/@nobisan22-2
